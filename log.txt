@@ -1,0 +1,108 @@
+2019-04-23 17:18:18 [main] INFO   - WebDriver successfully started
+2019-04-23 17:18:44 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
+2019-04-23 17:18:46 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
+2019-04-23 17:18:46 [main] ERROR  - Unable to click element by click element by xpath ((//a[text()="South Africa"]) 
+invalid selector: Unable to locate an element with the xpath expression (//a[text()="South Africa"] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '(//a[text()="South Africa"]' is not a valid XPath expression.
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\SINETH~1.QAS\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60056}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 5919191ec505bbe131c10559a1964039
+*** Element info: {Using=xpath, value=(//a[text()="South Africa"]}
+2019-04-23 17:18:56 [main] ERROR  - Unable to click element by click element by xpath ((//span[@class="wpjb-line-major"])[1]) 
+no such element: Unable to locate element: {"method":"xpath","selector":"(//span[@class="wpjb-line-major"])[1]"}
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\SINETH~1.QAS\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60056}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 5919191ec505bbe131c10559a1964039
+*** Element info: {Using=xpath, value=(//span[@class="wpjb-line-major"])[1]}
+2019-04-23 17:19:07 [main] ERROR  - Unable to click element by click element by xpath (//a[text()="Apply Online "] ) 
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()="Apply Online "] "}
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\SINETH~1.QAS\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60056}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 5919191ec505bbe131c10559a1964039
+*** Element info: {Using=xpath, value=//a[text()="Apply Online "] }
+2019-04-23 17:21:16 [main] INFO   - WebDriver successfully started
+2019-04-23 17:21:41 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
+2019-04-23 17:21:43 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
+2019-04-23 17:21:46 [main] INFO   - clickElementByXpath (//a[text()="South Africa"])
+2019-04-23 17:21:50 [main] INFO   - clickElementByXpath ((//span[@class="wpjb-line-major"])[1])
+2019-04-23 17:21:50 [main] INFO   - clickElementByXpath (//a[text()="Apply Online "] )
+2019-04-23 17:21:50 [main] INFO   - enterText (Sinethemba Qashu)
+2019-04-23 17:21:50 [main] INFO   - enterText (automationAssessment@iLABQuality.com)
+2019-04-23 17:21:50 [main] INFO   - enterText (0675432199)
+2019-04-23 17:21:51 [main] INFO   - enterText (I am confident that I am capable.)
+2019-04-23 17:21:55 [main] INFO   - clickElementByXpath ((//input[@type="submit"])[1])
+2019-04-23 17:26:53 [main] INFO   - WebDriver successfully started
+2019-04-23 17:27:19 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
+2019-04-23 17:27:21 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
+2019-04-23 17:27:22 [main] INFO   - clickElementByXpath (//a[text()="South Africa"])
+2019-04-23 17:27:25 [main] INFO   - clickElementByXpath ((//span[@class="wpjb-line-major"])[1])
+2019-04-23 17:27:25 [main] INFO   - clickElementByXpath (//a[text()="Apply Online "] )
+2019-04-23 17:27:25 [main] INFO   - enterText (Sinethemba Qashu)
+2019-04-23 17:27:25 [main] INFO   - enterText (automationAssessment@iLABQuality.com)
+2019-04-23 17:27:25 [main] INFO   - enterText (0675432199)
+2019-04-23 17:27:26 [main] INFO   - enterText (I am confident that I am capable.)
+2019-04-23 17:27:30 [main] INFO   - clickElementByXpath ((//input[@type="submit"])[1])
+2019-04-23 17:34:08 [main] INFO   - WebDriver successfully started
+2019-04-23 17:34:33 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
+2019-04-23 17:34:35 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
+2019-04-23 17:34:38 [main] INFO   - clickElementByXpath (//a[text()="South Africa"])
+2019-04-23 17:34:42 [main] INFO   - clickElementByXpath ((//span[@class="wpjb-line-major"])[1])
+2019-04-23 17:34:42 [main] INFO   - clickElementByXpath (//a[text()="Apply Online "] )
+2019-04-23 17:34:42 [main] INFO   - enterText (Sinethemba Qashu)
+2019-04-23 17:34:42 [main] INFO   - enterText (automationAssessment@iLABQuality.com)
+2019-04-23 17:34:42 [main] INFO   - enterText (0675432199)
+2019-04-23 17:34:42 [main] INFO   - enterText (I am confident that I am capable.)
+2019-04-23 17:34:47 [main] INFO   - clickElementByXpath ((//input[@type="submit"])[1])
+2019-04-23 17:36:16 [main] INFO   - WebDriver successfully started
+2019-04-23 17:36:42 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
+2019-04-23 17:36:44 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
+2019-04-23 17:36:46 [main] INFO   - clickElementByXpath (//a[text()="South Africa"])
+2019-04-23 17:36:48 [main] INFO   - clickElementByXpath ((//span[@class="wpjb-line-major"])[1])
+2019-04-23 17:36:48 [main] INFO   - clickElementByXpath (//a[text()="Apply Online "] )
+2019-04-23 17:36:48 [main] INFO   - enterText (Sinethemba Qashu)
+2019-04-23 17:36:49 [main] INFO   - enterText (automationAssessment@iLABQuality.com)
+2019-04-23 17:36:49 [main] INFO   - enterText (0675432199)
+2019-04-23 17:36:49 [main] INFO   - enterText (I am confident that I am capable.)
+2019-04-23 17:36:53 [main] INFO   - clickElementByXpath ((//input[@type="submit"])[1])
+2019-04-23 17:48:02 [main] INFO   - WebDriver successfully started
+2019-04-23 17:48:28 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
+2019-04-23 17:48:30 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
+2019-04-23 17:48:33 [main] INFO   - clickElementByXpath (//a[text()="South Africa"])
+2019-04-23 17:48:37 [main] INFO   - clickElementByXpath ((//span[@class="wpjb-line-major"])[1])
+2019-04-23 17:48:37 [main] INFO   - clickElementByXpath (//a[text()="Apply Online "] )
+2019-04-23 17:48:37 [main] INFO   - enterText (Sinethemba Qashu)
+2019-04-23 17:48:37 [main] INFO   - enterText (automationAssessment@iLABQuality.com)
+2019-04-23 17:48:37 [main] INFO   - enterText (0675432199)
+2019-04-23 17:48:37 [main] INFO   - enterText (I am confident that I am capable.)
+2019-04-23 17:48:42 [main] INFO   - clickElementByXpath ((//input[@type="submit"])[1])
+2019-04-23 17:50:24 [main] INFO   - WebDriver successfully started
+2019-04-23 17:50:49 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
+2019-04-23 17:50:51 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
+2019-04-23 17:50:53 [main] INFO   - clickElementByXpath (//a[text()="South Africa"])
+2019-04-23 17:50:56 [main] INFO   - clickElementByXpath ((//span[@class="wpjb-line-major"])[1])
+2019-04-23 17:50:56 [main] INFO   - clickElementByXpath (//a[text()="Apply Online "] )
+2019-04-23 17:50:56 [main] INFO   - enterText (Sinethemba Qashu)
+2019-04-23 17:50:56 [main] INFO   - enterText (automationAssessment@iLABQuality.com)
+2019-04-23 17:50:56 [main] INFO   - enterText (0675432199)
+2019-04-23 17:50:57 [main] INFO   - enterText (I am confident that I am capable.)
+2019-04-23 17:51:01 [main] INFO   - clickElementByXpath ((//input[@type="submit"])[1])
+2019-04-23 17:51:05 [main] ERROR  - prepareSuite() Unable to parse remote response: Unknown error
+2019-04-23 17:55:50 [main] ERROR  - prepareSuite() Unable to parse remote response: Unknown error
