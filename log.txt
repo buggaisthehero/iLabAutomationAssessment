@@ -106,3 +106,42 @@ Session ID: 5919191ec505bbe131c10559a1964039
 2019-04-23 17:51:01 [main] INFO   - clickElementByXpath ((//input[@type="submit"])[1])
 2019-04-23 17:51:05 [main] ERROR  - prepareSuite() Unable to parse remote response: Unknown error
 2019-04-23 17:55:50 [main] ERROR  - prepareSuite() Unable to parse remote response: Unknown error
+2019-04-23 22:40:19 [main] ERROR  - prepareSuite() Unable to parse remote response: Unknown error
+2019-04-23 22:47:15 [main] ERROR  - prepareSuite() Unable to parse remote response: Unknown error
+2019-04-23 23:10:08 [main] ERROR  - prepareSuite() java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:11383
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '192.168.8.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: driver.version: SeleniumDriver
+2019-04-23 23:18:34 [main] INFO   - WebDriver successfully started
+2019-04-23 23:18:55 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
+2019-04-23 23:18:55 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
+2019-04-23 23:18:56 [main] INFO   - clickElementByXpath (//a[text()="South Africa"])
+2019-04-23 23:18:58 [main] INFO   - clickElementByXpath ((//span[@class="wpjb-line-major"])[1])
+2019-04-23 23:19:01 [main] INFO   - clickElementByXpath (//a[text()="Apply Online "] )
+2019-04-23 23:19:01 [main] ERROR  - Element not visible: //input[@name="applicant_name"]
+2019-04-23 23:19:01 [main] ERROR  - Element not visible: //input[@name="email"]
+2019-04-23 23:19:01 [main] ERROR  - Element not visible: //input[@name="phone"]
+2019-04-23 23:19:01 [main] ERROR  - Element not visible: //textarea[@name="message"]
+2019-04-23 23:19:03 [main] INFO   - clickElementByXpath ((//input[@type="submit"])[1])
+2019-04-23 23:34:27 [main] INFO   - WebDriver successfully started
+2019-04-23 23:34:58 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
+2019-04-23 23:35:00 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
+2019-04-23 23:35:05 [main] INFO   - clickElementByXpath (//a[text()="South Africa"])
+2019-04-23 23:35:10 [main] INFO   - clickElementByXpath ((//span[@class="wpjb-line-major"])[1])
+2019-04-23 23:35:10 [main] INFO   - clickElementByXpath (//a[text()="Apply Online "] )
+2019-04-23 23:35:10 [main] INFO   - enterText (Sinethemba Qashu)
+2019-04-23 23:35:11 [main] INFO   - enterText (automationAssessment@iLABQuality.com)
+2019-04-23 23:35:11 [main] INFO   - enterText (0675432199)
+2019-04-23 23:35:11 [main] INFO   - enterText (I am confident that I am capable.)
+2019-04-23 23:35:15 [main] INFO   - clickElementByXpath ((//input[@type="submit"])[1])
+2019-04-23 23:35:21 [main] INFO   - WebDriver successfully started
+2019-04-23 23:35:36 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
+2019-04-23 23:35:37 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
+2019-04-23 23:35:39 [main] INFO   - clickElementByXpath (//a[text()="South Africa"])
+2019-04-23 23:35:40 [main] INFO   - clickElementByXpath ((//span[@class="wpjb-line-major"])[1])
+2019-04-23 23:35:42 [main] INFO   - clickElementByXpath (//a[text()="Apply Online "] )
+2019-04-23 23:35:42 [main] INFO   - enterText (Sinethemba Qashu)
+2019-04-23 23:35:43 [main] INFO   - enterText (automationAssessment@iLABQuality.com)
+2019-04-23 23:35:43 [main] INFO   - enterText (0675432199)
+2019-04-23 23:35:43 [main] INFO   - enterText (I am confident that I am capable.)
+2019-04-23 23:35:45 [main] INFO   - clickElementByXpath ((//input[@type="submit"])[1])

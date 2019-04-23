@@ -59,7 +59,7 @@ public class SeleniumDriver extends TestBase
 	            }
                 case Edge: 
                 {
-                    SeleniumDriver.webDriver  =  new  EdgeDriver();
+                    SeleniumDriver.webDriver = new EdgeDriver();
                     this.browserStarted = true;
                     break;
                 }
