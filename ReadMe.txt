@@ -35,8 +35,11 @@ Note:
 	"Chrome" will run only on the Chrome browser and "Chrome:Edge" will run on both Chrome and Microsoft Edge browsers.
 
 		
-	To  run the project you can click execute.jar which is located in ..\QA Automation Assessment\AbsaAutomationAssessment\execute.jar.
+	To  run the project you can click executable.jar which is located in ..\QA Automation Assessment\iLabAutomationAssessment\iLabAutomationAssessment\executable.jar.
+        You will also find the SQL Totorial in ..\QA Automation Assessment\iLabAutomationAssessment\iLabAutomationAssessment\SQL Totorial.doc
+
         Source Code: https://github.com/buggaisthehero/iLabAutomationAssessment
+
 
 For any other information I can be contacted at the details below:
 	Cell: 0650900470
