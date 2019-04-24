@@ -63,7 +63,7 @@ public class JobPostPage extends TestBase {
 	public JobPostPage addUserDetails(TestData testData) throws ElementNotVisibleException, Exception
 	{
 		SeleniumDriver.clickElementByXpath(btnApplyOnlineXpath());
-		
+		seleniumDriver.Pause(2000);
 		seleniumDriver.enterText(LocatorType.XPATH, txtNameXpath(), testData.GetValueFromTestData("Firstname") + " " + testData.GetValueFromTestData("Lastname"));
 		seleniumDriver.enterText(LocatorType.XPATH, txtEmailXpath(), testData.GetValueFromTestData("Email"));
 		seleniumDriver.enterText(LocatorType.XPATH, txtCellphoneXpath(), testData.GetValueFromTestData("Cellphone"));

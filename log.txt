@@ -1,147 +1,307 @@
-2019-04-23 17:18:18 [main] INFO   - WebDriver successfully started
-2019-04-23 17:18:44 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
-2019-04-23 17:18:46 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
-2019-04-23 17:18:46 [main] ERROR  - Unable to click element by click element by xpath ((//a[text()="South Africa"]) 
-invalid selector: Unable to locate an element with the xpath expression (//a[text()="South Africa"] because of the following error:
-SyntaxError: Failed to execute 'evaluate' on 'Document': The string '(//a[text()="South Africa"]' is not a valid XPath expression.
-  (Session info: chrome=73.0.3683.103)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+2019-04-24 17:13:28 [main] INFO   - WebDriver successfully started
+2019-04-24 17:13:54 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
+2019-04-24 17:13:56 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
+2019-04-24 17:13:59 [main] INFO   - clickElementByXpath (//a[text()="South Africa"])
+2019-04-24 17:14:03 [main] INFO   - clickElementByXpath ((//span[@class="wpjb-line-major"])[1])
+2019-04-24 17:14:03 [main] INFO   - clickElementByXpath (//a[text()="Apply Online "] )
+2019-04-24 17:14:03 [main] INFO   - enterText (Sinethemba Qashu)
+2019-04-24 17:14:04 [main] INFO   - enterText (automationAssessment@iLABQuality.com)
+2019-04-24 17:14:04 [main] INFO   - enterText (0675432199)
+2019-04-24 17:14:04 [main] INFO   - enterText (I am confident that I am capable.)
+2019-04-24 17:14:09 [main] INFO   - clickElementByXpath ((//input[@type="submit"])[1])
+2019-04-24 17:14:14 [main] INFO   - WebDriver successfully started
+2019-04-24 17:14:30 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
+2019-04-24 17:14:30 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
+2019-04-24 17:14:31 [main] INFO   - clickElementByXpath (//a[text()="South Africa"])
+2019-04-24 17:14:32 [main] INFO   - clickElementByXpath ((//span[@class="wpjb-line-major"])[1])
+2019-04-24 17:14:34 [main] INFO   - clickElementByXpath (//a[text()="Apply Online "] )
+2019-04-24 17:14:34 [main] ERROR  - Element not visible: //input[@name="applicant_name"]
+2019-04-24 17:14:34 [main] INFO   - enterText (automationAssessment@iLABQuality.com)
+2019-04-24 17:14:35 [main] INFO   - enterText (0675432199)
+2019-04-24 17:14:35 [main] INFO   - enterText (I am confident that I am capable.)
+2019-04-24 17:14:37 [main] INFO   - clickElementByXpath ((//input[@type="submit"])[1])
+2019-04-24 17:21:16 [main] INFO   - WebDriver successfully started
+2019-04-24 17:21:41 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
+2019-04-24 17:21:44 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
+2019-04-24 17:21:45 [main] INFO   - clickElementByXpath (//a[text()="South Africa"])
+2019-04-24 17:21:48 [main] INFO   - clickElementByXpath ((//span[@class="wpjb-line-major"])[1])
+2019-04-24 17:21:48 [main] INFO   - clickElementByXpath (//a[text()="Apply Online "] )
+2019-04-24 17:21:50 [main] INFO   - enterText (Sinethemba Qashu)
+2019-04-24 17:21:50 [main] INFO   - enterText (automationAssessment@iLABQuality.com)
+2019-04-24 17:21:50 [main] INFO   - enterText (0675432199)
+2019-04-24 17:21:50 [main] INFO   - enterText (I am confident that I am capable.)
+2019-04-24 17:21:56 [main] INFO   - clickElementByXpath ((//input[@type="submit"])[1])
+2019-04-24 17:21:59 [main] ERROR  - prepareSuite() Unable to parse remote response: Unknown error
+2019-04-24 17:23:23 [main] ERROR  - prepareSuite() Unable to parse remote response: Unknown error
+2019-04-24 17:24:48 [main] ERROR  - prepareSuite() Unable to parse remote response: Unknown error
+2019-04-24 17:25:59 [main] ERROR  - prepareSuite() Unable to parse remote response: Unknown error
+2019-04-24 17:26:52 [main] INFO   - WebDriver successfully started
+2019-04-24 17:27:18 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
+2019-04-24 17:27:20 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
+2019-04-24 17:27:23 [main] INFO   - clickElementByXpath (//a[text()="South Africa"])
+2019-04-24 17:27:27 [main] INFO   - clickElementByXpath ((//span[@class="wpjb-line-major"])[1])
+2019-04-24 17:27:27 [main] INFO   - clickElementByXpath (//a[text()="Apply Online "] )
+2019-04-24 17:27:29 [main] INFO   - enterText (Sinethemba Qashu)
+2019-04-24 17:27:29 [main] INFO   - enterText (automationAssessment@iLABQuality.com)
+2019-04-24 17:27:29 [main] INFO   - enterText (0675432199)
+2019-04-24 17:27:29 [main] INFO   - enterText (I am confident that I am capable.)
+2019-04-24 17:27:34 [main] INFO   - clickElementByXpath ((//input[@type="submit"])[1])
+2019-04-24 17:27:59 [main] ERROR  - prepareSuite() Unable to parse remote response: Unknown error
+2019-04-24 17:28:21 [main] ERROR  - prepareSuite() Unable to parse remote response: Unknown error
+2019-04-24 17:28:35 [main] ERROR  - prepareSuite() Unable to parse remote response: Unknown error
+2019-04-24 17:29:18 [main] ERROR  - prepareSuite() Unable to parse remote response: Unknown error
+2019-04-24 17:34:57 [main] ERROR  - prepareSuite() Unable to parse remote response: Unknown error
+2019-04-24 17:37:09 [main] ERROR  - prepareSuite() Unable to parse remote response: Unknown error
+2019-04-24 17:42:12 [main] ERROR  - prepareSuite() Unable to parse remote response: Unknown error
+2019-04-24 17:45:55 [main] ERROR  - prepareSuite() Unable to parse remote response: Unknown error
+2019-04-24 17:51:39 [main] ERROR  - prepareSuite() Unexpected error launching Internet Explorer. Browser zoom level was set to 150%. It should be set to 100% (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.55 seconds
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
 System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\SINETH~1.QAS\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60056}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
-Session ID: 5919191ec505bbe131c10559a1964039
-*** Element info: {Using=xpath, value=(//a[text()="South Africa"]}
-2019-04-23 17:18:56 [main] ERROR  - Unable to click element by click element by xpath ((//span[@class="wpjb-line-major"])[1]) 
-no such element: Unable to locate element: {"method":"xpath","selector":"(//span[@class="wpjb-line-major"])[1]"}
-  (Session info: chrome=73.0.3683.103)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\SINETH~1.QAS\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60056}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
-Session ID: 5919191ec505bbe131c10559a1964039
-*** Element info: {Using=xpath, value=(//span[@class="wpjb-line-major"])[1]}
-2019-04-23 17:19:07 [main] ERROR  - Unable to click element by click element by xpath (//a[text()="Apply Online "] ) 
-no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()="Apply Online "] "}
-  (Session info: chrome=73.0.3683.103)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\SINETH~1.QAS\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60056}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
-Session ID: 5919191ec505bbe131c10559a1964039
-*** Element info: {Using=xpath, value=//a[text()="Apply Online "] }
-2019-04-23 17:21:16 [main] INFO   - WebDriver successfully started
-2019-04-23 17:21:41 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
-2019-04-23 17:21:43 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
-2019-04-23 17:21:46 [main] INFO   - clickElementByXpath (//a[text()="South Africa"])
-2019-04-23 17:21:50 [main] INFO   - clickElementByXpath ((//span[@class="wpjb-line-major"])[1])
-2019-04-23 17:21:50 [main] INFO   - clickElementByXpath (//a[text()="Apply Online "] )
-2019-04-23 17:21:50 [main] INFO   - enterText (Sinethemba Qashu)
-2019-04-23 17:21:50 [main] INFO   - enterText (automationAssessment@iLABQuality.com)
-2019-04-23 17:21:50 [main] INFO   - enterText (0675432199)
-2019-04-23 17:21:51 [main] INFO   - enterText (I am confident that I am capable.)
-2019-04-23 17:21:55 [main] INFO   - clickElementByXpath ((//input[@type="submit"])[1])
-2019-04-23 17:26:53 [main] INFO   - WebDriver successfully started
-2019-04-23 17:27:19 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
-2019-04-23 17:27:21 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
-2019-04-23 17:27:22 [main] INFO   - clickElementByXpath (//a[text()="South Africa"])
-2019-04-23 17:27:25 [main] INFO   - clickElementByXpath ((//span[@class="wpjb-line-major"])[1])
-2019-04-23 17:27:25 [main] INFO   - clickElementByXpath (//a[text()="Apply Online "] )
-2019-04-23 17:27:25 [main] INFO   - enterText (Sinethemba Qashu)
-2019-04-23 17:27:25 [main] INFO   - enterText (automationAssessment@iLABQuality.com)
-2019-04-23 17:27:25 [main] INFO   - enterText (0675432199)
-2019-04-23 17:27:26 [main] INFO   - enterText (I am confident that I am capable.)
-2019-04-23 17:27:30 [main] INFO   - clickElementByXpath ((//input[@type="submit"])[1])
-2019-04-23 17:34:08 [main] INFO   - WebDriver successfully started
-2019-04-23 17:34:33 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
-2019-04-23 17:34:35 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
-2019-04-23 17:34:38 [main] INFO   - clickElementByXpath (//a[text()="South Africa"])
-2019-04-23 17:34:42 [main] INFO   - clickElementByXpath ((//span[@class="wpjb-line-major"])[1])
-2019-04-23 17:34:42 [main] INFO   - clickElementByXpath (//a[text()="Apply Online "] )
-2019-04-23 17:34:42 [main] INFO   - enterText (Sinethemba Qashu)
-2019-04-23 17:34:42 [main] INFO   - enterText (automationAssessment@iLABQuality.com)
-2019-04-23 17:34:42 [main] INFO   - enterText (0675432199)
-2019-04-23 17:34:42 [main] INFO   - enterText (I am confident that I am capable.)
-2019-04-23 17:34:47 [main] INFO   - clickElementByXpath ((//input[@type="submit"])[1])
-2019-04-23 17:36:16 [main] INFO   - WebDriver successfully started
-2019-04-23 17:36:42 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
-2019-04-23 17:36:44 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
-2019-04-23 17:36:46 [main] INFO   - clickElementByXpath (//a[text()="South Africa"])
-2019-04-23 17:36:48 [main] INFO   - clickElementByXpath ((//span[@class="wpjb-line-major"])[1])
-2019-04-23 17:36:48 [main] INFO   - clickElementByXpath (//a[text()="Apply Online "] )
-2019-04-23 17:36:48 [main] INFO   - enterText (Sinethemba Qashu)
-2019-04-23 17:36:49 [main] INFO   - enterText (automationAssessment@iLABQuality.com)
-2019-04-23 17:36:49 [main] INFO   - enterText (0675432199)
-2019-04-23 17:36:49 [main] INFO   - enterText (I am confident that I am capable.)
-2019-04-23 17:36:53 [main] INFO   - clickElementByXpath ((//input[@type="submit"])[1])
-2019-04-23 17:48:02 [main] INFO   - WebDriver successfully started
-2019-04-23 17:48:28 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
-2019-04-23 17:48:30 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
-2019-04-23 17:48:33 [main] INFO   - clickElementByXpath (//a[text()="South Africa"])
-2019-04-23 17:48:37 [main] INFO   - clickElementByXpath ((//span[@class="wpjb-line-major"])[1])
-2019-04-23 17:48:37 [main] INFO   - clickElementByXpath (//a[text()="Apply Online "] )
-2019-04-23 17:48:37 [main] INFO   - enterText (Sinethemba Qashu)
-2019-04-23 17:48:37 [main] INFO   - enterText (automationAssessment@iLABQuality.com)
-2019-04-23 17:48:37 [main] INFO   - enterText (0675432199)
-2019-04-23 17:48:37 [main] INFO   - enterText (I am confident that I am capable.)
-2019-04-23 17:48:42 [main] INFO   - clickElementByXpath ((//input[@type="submit"])[1])
-2019-04-23 17:50:24 [main] INFO   - WebDriver successfully started
-2019-04-23 17:50:49 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
-2019-04-23 17:50:51 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
-2019-04-23 17:50:53 [main] INFO   - clickElementByXpath (//a[text()="South Africa"])
-2019-04-23 17:50:56 [main] INFO   - clickElementByXpath ((//span[@class="wpjb-line-major"])[1])
-2019-04-23 17:50:56 [main] INFO   - clickElementByXpath (//a[text()="Apply Online "] )
-2019-04-23 17:50:56 [main] INFO   - enterText (Sinethemba Qashu)
-2019-04-23 17:50:56 [main] INFO   - enterText (automationAssessment@iLABQuality.com)
-2019-04-23 17:50:56 [main] INFO   - enterText (0675432199)
-2019-04-23 17:50:57 [main] INFO   - enterText (I am confident that I am capable.)
-2019-04-23 17:51:01 [main] INFO   - clickElementByXpath ((//input[@type="submit"])[1])
-2019-04-23 17:51:05 [main] ERROR  - prepareSuite() Unable to parse remote response: Unknown error
-2019-04-23 17:55:50 [main] ERROR  - prepareSuite() Unable to parse remote response: Unknown error
-2019-04-23 22:40:19 [main] ERROR  - prepareSuite() Unable to parse remote response: Unknown error
-2019-04-23 22:47:15 [main] ERROR  - prepareSuite() Unable to parse remote response: Unknown error
-2019-04-23 23:10:08 [main] ERROR  - prepareSuite() java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:11383
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: '02CORL-1B7CMH2', ip: '192.168.8.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
 Driver info: driver.version: SeleniumDriver
-2019-04-23 23:18:34 [main] INFO   - WebDriver successfully started
-2019-04-23 23:18:55 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
-2019-04-23 23:18:55 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
-2019-04-23 23:18:56 [main] INFO   - clickElementByXpath (//a[text()="South Africa"])
-2019-04-23 23:18:58 [main] INFO   - clickElementByXpath ((//span[@class="wpjb-line-major"])[1])
-2019-04-23 23:19:01 [main] INFO   - clickElementByXpath (//a[text()="Apply Online "] )
-2019-04-23 23:19:01 [main] ERROR  - Element not visible: //input[@name="applicant_name"]
-2019-04-23 23:19:01 [main] ERROR  - Element not visible: //input[@name="email"]
-2019-04-23 23:19:01 [main] ERROR  - Element not visible: //input[@name="phone"]
-2019-04-23 23:19:01 [main] ERROR  - Element not visible: //textarea[@name="message"]
-2019-04-23 23:19:03 [main] INFO   - clickElementByXpath ((//input[@type="submit"])[1])
-2019-04-23 23:34:27 [main] INFO   - WebDriver successfully started
-2019-04-23 23:34:58 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
-2019-04-23 23:35:00 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
-2019-04-23 23:35:05 [main] INFO   - clickElementByXpath (//a[text()="South Africa"])
-2019-04-23 23:35:10 [main] INFO   - clickElementByXpath ((//span[@class="wpjb-line-major"])[1])
-2019-04-23 23:35:10 [main] INFO   - clickElementByXpath (//a[text()="Apply Online "] )
-2019-04-23 23:35:10 [main] INFO   - enterText (Sinethemba Qashu)
-2019-04-23 23:35:11 [main] INFO   - enterText (automationAssessment@iLABQuality.com)
-2019-04-23 23:35:11 [main] INFO   - enterText (0675432199)
-2019-04-23 23:35:11 [main] INFO   - enterText (I am confident that I am capable.)
-2019-04-23 23:35:15 [main] INFO   - clickElementByXpath ((//input[@type="submit"])[1])
-2019-04-23 23:35:21 [main] INFO   - WebDriver successfully started
-2019-04-23 23:35:36 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
-2019-04-23 23:35:37 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
-2019-04-23 23:35:39 [main] INFO   - clickElementByXpath (//a[text()="South Africa"])
-2019-04-23 23:35:40 [main] INFO   - clickElementByXpath ((//span[@class="wpjb-line-major"])[1])
-2019-04-23 23:35:42 [main] INFO   - clickElementByXpath (//a[text()="Apply Online "] )
-2019-04-23 23:35:42 [main] INFO   - enterText (Sinethemba Qashu)
-2019-04-23 23:35:43 [main] INFO   - enterText (automationAssessment@iLABQuality.com)
-2019-04-23 23:35:43 [main] INFO   - enterText (0675432199)
-2019-04-23 23:35:43 [main] INFO   - enterText (I am confident that I am capable.)
-2019-04-23 23:35:45 [main] INFO   - clickElementByXpath ((//input[@type="submit"])[1])
+2019-04-24 17:52:08 [main] INFO   - WebDriver successfully started
+2019-04-24 17:52:30 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
+2019-04-24 17:52:32 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
+2019-04-24 17:52:42 [main] ERROR  - Unable to click element by click element by xpath (//a[text()="South Africa"]) 
+Unable to find element with xpath == //a[text()="South Africa"] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {browserName: internet explorer, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.enableFullPageScreenshot: true, ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ie.forceShellWindowsApi: false, ie.useLegacyFileUploadDialogHandling: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:21542/, nativeEvents: true, requireWindowFocus: false}, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11}
+Session ID: d33d3cfe-1150-4729-8498-a2009e5d601e
+*** Element info: {Using=xpath, value=//a[text()="South Africa"]}
+2019-04-24 17:54:08 [main] INFO   - WebDriver successfully started
+2019-04-24 17:54:24 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
+2019-04-24 17:54:26 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
+2019-04-24 17:54:36 [main] ERROR  - Unable to click element by click element by xpath (//a[text()="South Africa"]) 
+Unable to find element with xpath == //a[text()="South Africa"] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {browserName: internet explorer, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.enableFullPageScreenshot: true, ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ie.forceShellWindowsApi: false, ie.useLegacyFileUploadDialogHandling: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:36290/, nativeEvents: true, requireWindowFocus: false}, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11}
+Session ID: bfc028f0-7e0f-47e8-b597-854047c72929
+*** Element info: {Using=xpath, value=//a[text()="South Africa"]}
+2019-04-24 17:54:47 [main] ERROR  - Unable to click element by click element by xpath ((//span[@class="wpjb-line-major"])[1]) 
+Unable to find element with xpath == (//span[@class="wpjb-line-major"])[1] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {browserName: internet explorer, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.enableFullPageScreenshot: true, ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ie.forceShellWindowsApi: false, ie.useLegacyFileUploadDialogHandling: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:36290/, nativeEvents: true, requireWindowFocus: false}, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11}
+Session ID: bfc028f0-7e0f-47e8-b597-854047c72929
+*** Element info: {Using=xpath, value=(//span[@class="wpjb-line-major"])[1]}
+2019-04-24 17:54:57 [main] ERROR  - Unable to click element by click element by xpath (//a[text()="Apply Online "] ) 
+Unable to find element with xpath == //a[text()="Apply Online "]  (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {browserName: internet explorer, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.enableFullPageScreenshot: true, ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ie.forceShellWindowsApi: false, ie.useLegacyFileUploadDialogHandling: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:36290/, nativeEvents: true, requireWindowFocus: false}, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11}
+Session ID: bfc028f0-7e0f-47e8-b597-854047c72929
+*** Element info: {Using=xpath, value=//a[text()="Apply Online "] }
+2019-04-24 17:55:09 [main] ERROR  - Unable to enter the text (Sinethemba Qashu) 
+Unable to find element with xpath == //input[@name="applicant_name"] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {browserName: internet explorer, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.enableFullPageScreenshot: true, ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ie.forceShellWindowsApi: false, ie.useLegacyFileUploadDialogHandling: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:36290/, nativeEvents: true, requireWindowFocus: false}, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11}
+Session ID: bfc028f0-7e0f-47e8-b597-854047c72929
+*** Element info: {Using=xpath, value=//input[@name="applicant_name"]}
+2019-04-24 17:59:42 [main] INFO   - WebDriver successfully started
+2019-04-24 17:59:58 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
+2019-04-24 18:00:01 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
+2019-04-24 18:00:12 [main] ERROR  - Unable to click element by click element by xpath (//a[text()="South Africa"]) 
+Unable to find element with xpath == //a[text()="South Africa"] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {browserName: internet explorer, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.enableFullPageScreenshot: true, ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ie.forceShellWindowsApi: false, ie.useLegacyFileUploadDialogHandling: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:3471/, nativeEvents: true, requireWindowFocus: false}, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11}
+Session ID: 2af43e66-b061-4b22-b8f4-20784fae6505
+*** Element info: {Using=xpath, value=//a[text()="South Africa"]}
+2019-04-24 18:00:28 [main] INFO   - WebDriver successfully started
+2019-04-24 18:00:45 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
+2019-04-24 18:00:47 [main] INFO   - clickElementByXpath ((//a[text()="CAREERS"])[1])
+2019-04-24 18:00:58 [main] ERROR  - Unable to click element by click element by xpath (//a[text()="South Africa"]) 
+Unable to find element with xpath == //a[text()="South Africa"] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {browserName: internet explorer, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.enableFullPageScreenshot: true, ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ie.forceShellWindowsApi: false, ie.useLegacyFileUploadDialogHandling: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:14253/, nativeEvents: true, requireWindowFocus: false}, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11}
+Session ID: 0295e48b-e0c8-4365-9a7c-1950d0aa6d0b
+*** Element info: {Using=xpath, value=//a[text()="South Africa"]}
+2019-04-24 18:01:08 [main] ERROR  - Unable to click element by click element by xpath ((//span[@class="wpjb-line-major"])[1]) 
+Unable to find element with xpath == (//span[@class="wpjb-line-major"])[1] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {browserName: internet explorer, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.enableFullPageScreenshot: true, ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ie.forceShellWindowsApi: false, ie.useLegacyFileUploadDialogHandling: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:14253/, nativeEvents: true, requireWindowFocus: false}, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11}
+Session ID: 0295e48b-e0c8-4365-9a7c-1950d0aa6d0b
+*** Element info: {Using=xpath, value=(//span[@class="wpjb-line-major"])[1]}
+2019-04-24 18:01:18 [main] ERROR  - Unable to click element by click element by xpath (//a[text()="Apply Online "] ) 
+Unable to find element with xpath == //a[text()="Apply Online "]  (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {browserName: internet explorer, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.enableFullPageScreenshot: true, ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ie.forceShellWindowsApi: false, ie.useLegacyFileUploadDialogHandling: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:14253/, nativeEvents: true, requireWindowFocus: false}, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11}
+Session ID: 0295e48b-e0c8-4365-9a7c-1950d0aa6d0b
+*** Element info: {Using=xpath, value=//a[text()="Apply Online "] }
+2019-04-24 18:01:30 [main] ERROR  - Unable to enter the text (Sinethemba Qashu) 
+Unable to find element with xpath == //input[@name="applicant_name"] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {browserName: internet explorer, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.enableFullPageScreenshot: true, ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ie.forceShellWindowsApi: false, ie.useLegacyFileUploadDialogHandling: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:14253/, nativeEvents: true, requireWindowFocus: false}, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11}
+Session ID: 0295e48b-e0c8-4365-9a7c-1950d0aa6d0b
+*** Element info: {Using=xpath, value=//input[@name="applicant_name"]}
+2019-04-24 18:01:30 [main] ERROR  - Unable to enter the text (automationAssessment@iLABQuality.com) 
+Unable to find element on closed window (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {browserName: internet explorer, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.enableFullPageScreenshot: true, ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ie.forceShellWindowsApi: false, ie.useLegacyFileUploadDialogHandling: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:14253/, nativeEvents: true, requireWindowFocus: false}, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11}
+Session ID: 0295e48b-e0c8-4365-9a7c-1950d0aa6d0b
+*** Element info: {Using=xpath, value=//input[@name="email"]}
+2019-04-24 18:01:30 [main] ERROR  - Unable to enter the text (0675432199) 
+Unable to find element on closed window (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {browserName: internet explorer, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.enableFullPageScreenshot: true, ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ie.forceShellWindowsApi: false, ie.useLegacyFileUploadDialogHandling: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:14253/, nativeEvents: true, requireWindowFocus: false}, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11}
+Session ID: 0295e48b-e0c8-4365-9a7c-1950d0aa6d0b
+*** Element info: {Using=xpath, value=//input[@name="phone"]}
+2019-04-24 18:01:30 [main] ERROR  - Unable to enter the text (I am confident that I am capable.) 
+Unable to find element on closed window (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {browserName: internet explorer, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.enableFullPageScreenshot: true, ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ie.forceShellWindowsApi: false, ie.useLegacyFileUploadDialogHandling: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:14253/, nativeEvents: true, requireWindowFocus: false}, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11}
+Session ID: 0295e48b-e0c8-4365-9a7c-1950d0aa6d0b
+*** Element info: {Using=xpath, value=//textarea[@name="message"]}
+2019-04-24 18:01:32 [main] ERROR  - Unable to click element by click element by xpath ((//input[@type="submit"])[1]) 
+Unable to find element on closed window (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {browserName: internet explorer, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.enableFullPageScreenshot: true, ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ie.forceShellWindowsApi: false, ie.useLegacyFileUploadDialogHandling: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:14253/, nativeEvents: true, requireWindowFocus: false}, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11}
+Session ID: 0295e48b-e0c8-4365-9a7c-1950d0aa6d0b
+*** Element info: {Using=xpath, value=(//input[@type="submit"])[1]}
+2019-04-24 18:04:13 [main] INFO   - WebDriver successfully started
+2019-04-24 18:04:16 [main] INFO   - NavigateToPage (https://www.ilabquality.com/)
+2019-04-24 18:04:16 [main] ERROR  - Unable to click element by click element by xpath ((//a[text()="CAREERS"])[1]) 
+no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\SINETH~1.QAS\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57603}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: f1c8e11f280cefb75b51d48c4006194b
+*** Element info: {Using=xpath, value=(//a[text()="CAREERS"])[1]}
+2019-04-24 18:04:16 [main] ERROR  - Unable to click element by click element by xpath (//a[text()="South Africa"]) 
+no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\SINETH~1.QAS\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57603}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: f1c8e11f280cefb75b51d48c4006194b
+*** Element info: {Using=xpath, value=//a[text()="South Africa"]}
+2019-04-24 18:04:16 [main] ERROR  - Unable to click element by click element by xpath ((//span[@class="wpjb-line-major"])[1]) 
+no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\SINETH~1.QAS\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57603}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: f1c8e11f280cefb75b51d48c4006194b
+*** Element info: {Using=xpath, value=(//span[@class="wpjb-line-major"])[1]}
+2019-04-24 18:04:16 [main] ERROR  - Unable to click element by click element by xpath (//a[text()="Apply Online "] ) 
+no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\SINETH~1.QAS\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57603}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: f1c8e11f280cefb75b51d48c4006194b
+*** Element info: {Using=xpath, value=//a[text()="Apply Online "] }
+2019-04-24 18:04:18 [main] ERROR  - Unable to enter the text (Sinethemba Qashu) 
+no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\SINETH~1.QAS\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57603}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: f1c8e11f280cefb75b51d48c4006194b
+*** Element info: {Using=xpath, value=//input[@name="applicant_name"]}
+2019-04-24 18:04:18 [main] ERROR  - Unable to enter the text (automationAssessment@iLABQuality.com) 
+no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\SINETH~1.QAS\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57603}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: f1c8e11f280cefb75b51d48c4006194b
+*** Element info: {Using=xpath, value=//input[@name="email"]}
+2019-04-24 18:04:18 [main] ERROR  - Unable to enter the text (0675432199) 
+no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\SINETH~1.QAS\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57603}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: f1c8e11f280cefb75b51d48c4006194b
+*** Element info: {Using=xpath, value=//input[@name="phone"]}
+2019-04-24 18:04:18 [main] ERROR  - Unable to enter the text (I am confident that I am capable.) 
+no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: '02CORL-1B7CMH2', ip: '152.111.137.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\SINETH~1.QAS\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57603}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: f1c8e11f280cefb75b51d48c4006194b
+*** Element info: {Using=xpath, value=//textarea[@name="message"]}

@@ -136,8 +136,8 @@ public final class AppConfig
 		         case "CHROME":
 		             browsers.add(BrowserTypes.Chrome);
 		             break;
-		         case "EDGE":
-		        	 browsers.add(BrowserTypes.Edge);
+		         case "IE":
+		        	 browsers.add(BrowserTypes.IE);
 		             break;
 		         default: 
 		        	 browsers.add(BrowserTypes.Chrome);

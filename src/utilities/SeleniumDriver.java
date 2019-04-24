@@ -17,6 +17,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.support.ui.Select;
 
 public class SeleniumDriver extends TestBase
@@ -37,8 +38,8 @@ public class SeleniumDriver extends TestBase
     		case Chrome:
     			 System.setProperty("webdriver.chrome.driver", this.browserDriverFile.getAbsolutePath());
     			 break;
-    		case Edge:
-    			System.setProperty("webdriver.edge.driver", this.browserDriverFile.getAbsolutePath());
+    		case IE:
+    			System.setProperty("webdriver.ie.driver", this.browserDriverFile.getAbsolutePath());
     			break;
     		default:
 
@@ -57,9 +58,9 @@ public class SeleniumDriver extends TestBase
 	                this.browserStarted = true;
 	                break;
 	            }
-                case Edge: 
+                case IE: 
                 {
-                    SeleniumDriver.webDriver = new EdgeDriver();
+                    SeleniumDriver.webDriver = new InternetExplorerDriver();
                     this.browserStarted = true;
                     break;
                 }

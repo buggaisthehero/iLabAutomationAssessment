@@ -20,7 +20,7 @@ Operating System
 	
 Browsers Installed on machine 
 	Chrome  Version 72.0.3626.119 (64 bit)
-        Microsoft Edge Version 41.16299.1004.0 (64 bit)
+        Internet ExplorerVersion 11 (64 bit)
 	
 	
 Components of the application

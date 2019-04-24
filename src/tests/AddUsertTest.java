@@ -3,7 +3,6 @@ package tests;
 import org.openqa.selenium.ElementNotVisibleException;
 
 import enummerables.Enums.BrowserTypes;
-import enummerables.Enums.LoggingType;
 import helperObjects.Logging;
 import helperObjects.TestBase;
 import helperObjects.TestData;
@@ -14,7 +13,7 @@ import pageObjects.CareersPage;
 
 
 
-public class AddUserTest extends TestBase 
+public class AddUsertTest extends TestBase 
 {
 	Logging logging = new Logging();
 	

@@ -20,7 +20,7 @@ public class Enums
     public enum BrowserTypes
     { 
     	Chrome(3,new String[]{"58"}),
-        Edge (1,new String[]{"14"});
+        IE (1,new String[]{"11"});
         
 
         private final int position;

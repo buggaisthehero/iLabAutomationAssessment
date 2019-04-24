@@ -57,8 +57,8 @@ public class TestBase
         			seleniumDriver = new SeleniumDriver("dependencies\\chromedriver.exe", browserType);
         			seleniumDriver.startWebDriver(browserType);
         			break;
-        		case Edge:
-        			seleniumDriver = new SeleniumDriver("dependencies\\MicrosoftWebDriver.exe", browserType);
+        		case IE:
+        			seleniumDriver = new SeleniumDriver("dependencies\\IEDriverServer.exe", browserType);
         			seleniumDriver.startWebDriver(browserType);
 
         			break;
